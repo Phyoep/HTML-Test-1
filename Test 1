@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This is My assignment</title>
+        </head>
+        <body>
+
+
+           <img src="oxford picture.png" alt="Oxford Picture" width="1200" height="300" /> 
+
+           <h1 style="text-align:center">Welcome to My Oxford Phonics World Class</h1>
+
+           <p><b>Oxford Phonics World</b> is the first step on your students' journey into English,leading you through <i> all 44 sounds.</i></p>
+
+           <ul>
+                <li><b><i>Over 150 Phonics Firends</b></i> - an angry apple, a big bear and others - can help children remember English sounds.</li>
+
+                <li><b><i>Action Songs, Chants and Games</b></i> encourage children to discover connections between English sounds and letters.</li>
+
+                <li><b><i>Active class activities</b></i> develop children's listening, speaking, reading, writing and spelling skills and provide opportunities to apply them.</li>
+
+                <li><b><i>Multi-ROMs</b></i> include fun animations and interactive games, stories and songs for practice ato home.</li>
+            </ul>
+            <br /> 
+
+            <a href="https://elt.oup.com/student/oxfordphonicsworld/">You can visit OXFORD PHONICS WORLD</a>
+
+
+            <p style="color:green">There are 5 levels of phonics for use before or alongside your English course.</p>
+            
+           <ol>
+                <li>Oxford Phonics World 1 </li>
+                <li>Oxford Phonics World 2 </li>
+                <li>Oxford Phonics World 3 </li>
+                <li>Oxford Phonics World 4 </li>
+                <li>Oxford Phonics World 5 </li>   
+                   
+            </ol>
+           
+            <p style="font-size:large">If you want to attend the class, Please fill out the following form.</p>
+
+            <label for="name">Enter Your Name</label>
+            <input type="text" id="name" required />
+            <br /> <br />
+
+            <label for="email">Enter Your Email</label>
+            <input type="email" id="email" required />
+            <br /> <br />
+
+            <label for="phone number">Enter Your Phone Number</label>
+            <input type="number" id="phone number" required />
+            <br /> <br />
+
+            <label for="address">Enter Your current address</label>
+            <input type="text" id="address" required />
+            <br /> <br />
+
+            <input type="checkbox" id="checkbox" />
+            <label for="checkbox">I agree privacy and terms</label>
+            <br /> <br />
+
+            <button type="submit">Submit</button>
+
+            <p style="color:red;">You can ask for something what you don't know</p>
+
+            <a href=https://forms.gle/PPthd74688REMK1C8 target="_blank">Go to Google Form</a>
+
+            <h2 style="text-align:center;">Thanks For Your Attention</h2>
+
+        
+        </body>
+   
+</html>
